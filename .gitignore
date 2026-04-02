@@ -1,0 +1,35 @@
+# History and session
+.Rhistory
+.Rapp.history
+
+# RData files can be large and machine-specific
+.RData
+.RDataTmp
+
+# User-specific
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+*.Rproj
+
+# knitr / pandoc
+*.utf8.md
+*.knit.md
+
+# Temporary files
+*~
+~$*.docx
+~$*.xlsx
+
+# renv (if you add it later)
+renv/library/
+renv/python/
+renv/staging/
+renv/sandbox/
+
+# macOS
+.DS_Store
+
+# Local / tooling
+.dist/

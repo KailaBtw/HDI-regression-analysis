@@ -8,7 +8,7 @@ Gross Domestic Product (GDP) is the typical shorthand for how well a country is 
 
 ## Full report
 
-The complete write-up — methodology, figures, model interpretation, and references — is in Markdown so it renders on GitHub:
+The complete write-up (methodology, figures, model interpretation, and references) is in Markdown so it renders properly on GitHub:
 
 **[Read the full report](./docs/report.md)**
 
